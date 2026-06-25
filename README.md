@@ -12,6 +12,13 @@ This is a highly customized version of the Engram 2.0 layout, tailored for the X
 
 > Customization Note: This layout uses a single typing layer. QMK supports multi-layer configurations; feel free to modify and design additional layers yourself.
 
+### Modification Logic
+
+The original Engram 2.0 layout places the `Q` and `Z` keys in the right pinky area, which requires twisting the right palm outwards every time they are pressed. To fix this ergonomic flaw on the X-BOWS Nature keyboard, the following adjustments were made:
+- Moved `Q` to the bottom-left `Alt` position.
+- Moved `Z` back to its standard QWERTY position (right of the `X` key).
+- Moved `G` (which was originally in the `Z` position) to the left `Space` key. (This makes typing words like "big" much easier ^^)
+
 ### ⌨️ Layout Maps
 
 #### Layer 0: Base
@@ -38,9 +45,9 @@ Required Tools:
 
 Download QMK Toolbox (qmk.fm/toolbox) and install QMK MSYS (github.com/qmk/qmk_distro_msys/releases/latest).
 
-File Search (Windows): Use Everything (voidtools.com) to locate files.
+File Search (Windows): Use Everything to locate files.
 
-Text Editor: Use Notepad++ (notepad-plus-plus.org/downloads). Change language via Settings > Preferences > Localization.
+Text Editor: Use Notepad++. Change language via Settings > Preferences > Localization.
 
 Setup Folder:
 
@@ -70,6 +77,15 @@ Click Clear EEPROM, then click Flash.
 Engram-21X 是基於 Engram 2.0 鍵盤佈局，針對 X-BOWS Nature 鍵盤所進行的深度客製化版本。
 
 客製化提醒：本鍵盤佈局目前專注於單一主層的優化。若有額外需求，歡迎自行利用 QMK 工具與 AI 輔助來擴充圖層。
+
+修改邏輯說明
+原版 Engram 2.0 將 Q 與 Z 按鍵放置於右手小指區，但每次按下 Q 或 Z 時，需要將右手掌往右側轉動。為了在 X-BOWS Nature 鍵盤上改善此缺點，本配置做了以下更動：
+
+將 Q 移至左下方的 Alt 鍵位。
+
+將 Z 移回 QWERTY 佈局的 Z 處（X 鍵左方）。
+
+將原本在 Z 鍵位置的 G 鍵，移動至左空白鍵~由左手拇指負責。（如此一來，輸入 "big" 會順手得多 ^^）
 
 編譯與刷機步驟
 準備工具：
