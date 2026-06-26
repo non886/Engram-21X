@@ -66,10 +66,10 @@ Since `Z`, `Q`, and `G` have extremely low usage frequencies, moving them out of
 ### ⌨️ Layout Maps & My Setup
 
 **1. Original X-Bows Nature Keyboard**
-<img width="1160" height="488" alt="X-BOWS N--" src="https://github.com/user-attachments/assets/1a3e708a-de0c-46f0-a364-675d5ac1e2e9" />
+<img width="1160" height="488" alt="X-BOWS N--" src="https://github.com/user-attachments/assets/e4f2730a-4a4c-485f-940d-e9ded3f92271" />
 
 **2. Engram-21X Custom Layout Diagram**
-<img width="896" height="387" alt="2026-06-26_210732" src="https://github.com/user-attachments/assets/ceb770cd-c33a-4d72-8634-a4ece9258702" />
+<img width="896" height="387" alt="2026-06-26_210732" src="https://github.com/user-attachments/assets/f2e5d7b8-722f-4cfc-b2f0-39ad33667c44" />
 
 #### My Hardware Setup
 To complete the ergonomic typing experience, my personal keyboard is equipped with:
@@ -157,7 +157,7 @@ While making a whirlwind visit, Jack quit smoking.
 
 Sphinx of black quartz, judge my vow.
 
-My Real-World Progress: To give you a realistic idea of the learning curve, I have practiced this layout for 87 hours and 13 minutes, and my speed currently sits around 50~61 WPM. It might not be blazing fast yet, but the ergonomic comfort it brings is totally worth it! You can check out my ongoing progress here on my keybr profile. Keep practicing!
+My Real-World Progress: To give you a realistic idea of the learning curve, I have practiced this layout for 87 hours and 13 minutes, and my speed currently sits around 50~61 WPM. It might not be blazing fast yet, but the ergonomic comfort it brings is totally worth it! You can check out my ongoing progress here on my keybr profile: https://www.keybr.com/profile/k5me31n. Keep practicing!
 
 Thank you for reading ^—^
 
@@ -344,6 +344,8 @@ While making a whirlwind visit, Jack quit smoking.
 
 Sphinx of black quartz, judge my vow.
 
-我的真實學習曲線： 為了讓大家對陣痛期有個真實的參考，這邊分享我個人的練習數據。目前我已累積練習了 87 小時 13 分鐘，打字速度大約穩定在 50~61 WPM。這速度雖然稱不上飛快，但佈局改善後帶來的手指舒適度與健康是無價的！歡迎到 我的 keybr 個人檔案 查看我正在持續推進的進度。慢慢來，手指會記住一切的！
+我的真實學習曲線： 為了讓大家對陣痛期有個真實的參考，這邊分享我個人的練習數據。目前我已累積練習了 87 小時 13 分鐘，打字速度大約穩定在 50~61 WPM。
+這速度雖然稱不上飛快，但佈局改善後帶來的手指舒適度與健康是無價的！
+歡迎查看我的 keybr 個人檔案進度：https://www.keybr.com/profile/k5me31n 。慢慢來，手指會記住一切的！
 
 感謝您的觀看 ^—^
