@@ -21,6 +21,12 @@ The original Engram 2.0 layout places the `Q` and `Z` keys in the right pinky ar
 
 ### ⌨️ Layout Maps
 
+**1. Original X-Bows Nature Keyboard**
+<img width="1252" height="639" alt="2026-06-26_215549" src="https://github.com/user-attachments/assets/e2657fbe-10c0-40c3-9a0e-b86cec00d8db" />
+
+**2. Engram-21X Custom Layout Diagram**
+<img width="896" height="387" alt="2026-06-26_210732" src="https://github.com/user-attachments/assets/d82bd2a9-8050-4e81-8ef2-1e0362a65b83" />
+
 #### Layer 0: Base
 
 ```text
