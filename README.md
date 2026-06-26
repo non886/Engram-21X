@@ -25,7 +25,8 @@ The original Engram 2.0 layout places the `Q` and `Z` keys in the right pinky ar
 <img width="1160" height="488" alt="X-BOWS N--" src="https://github.com/user-attachments/assets/75c78336-e1ea-4346-ae3c-617d599b51bc" />
 
 **2. Engram-21X Custom Layout Diagram**
-<img width="896" height="387" alt="2026-06-26_210732" src="https://github.com/user-attachments/assets/d82bd2a9-8050-4e81-8ef2-1e0362a65b83" />
+<img width="896" height="387" alt="2026-06-26_210732" src="https://github.com/user-attachments/assets/a108f89a-f2cd-41a3-b9ee-9cef24531dc5" />
+
 
 #### Layer 0: Base
 
