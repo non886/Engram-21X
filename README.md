@@ -16,7 +16,8 @@ This is a highly customized version of the Engram 2.0 layout, tailored for the X
 
 **Compared to the original Engram 2.0 layout, this custom configuration specifically modifies three keys: `Z`, `Q`, and `G`.**
 
-The original Engram 2.0 layout places the `Q` and `Z` keys in the right pinky area, which requires twisting the right palm outwards every time they are pressed. To fix this ergonomic flaw on the X-BOWS Nature keyboard, the following adjustments were made:
+The original Engram 2.0 layout places the `Q` and `Z` keys in the right pinky area, which requires twisting the right palm outwards every time they are pressed. 
+To fix this ergonomic flaw on the X-BOWS Nature keyboard, the following adjustments were made:
 - Moved `Q` to the bottom-right `Alt` position.
 - Moved `Z` back to its standard QWERTY position (left of the `X` key).
 - Moved `G` (which was originally in the `Z` position) to the left `Space` key, controlled by the left thumb. (This makes typing words like "big" much easier ^^)
@@ -89,7 +90,8 @@ Engram-21X 是基於 Engram 2.0 鍵盤佈局，針對 X-BOWS Nature 鍵盤所進
 修改邏輯說明
 與原版 Engram 2.0 相比，本佈局主要更動了三個按鍵：Z、Q 與 G。
 
-原版 Engram 2.0 將 Q 與 Z 按鍵放置於右手小指區，但每次按下 Q 或 Z 時，需要將右手掌往右側轉動。為了在 X-BOWS Nature 鍵盤上改善此缺點，本配置做了以下更動：
+原版 Engram 2.0 將 Q 與 Z 按鍵放置於右手小指區，但每次按下 Q 或 Z 時，需要將右手掌往右側轉動。
+為了在 X-BOWS Nature 鍵盤上改善此缺點，本配置做了以下更動：
 
 將 Q 移至右下方的 Alt 鍵位。
 
