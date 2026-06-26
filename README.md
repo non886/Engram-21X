@@ -66,10 +66,10 @@ Since `Z`, `Q`, and `G` have extremely low usage frequencies, moving them out of
 ### ⌨️ Layout Maps & My Setup
 
 **1. Original X-Bows Nature Keyboard**
-<img width="1160" height="488" alt="X-BOWS N--" src="https://github.com/user-attachments/assets/06399abc-a763-4e36-a65e-38f3b912598c" />
+<img width="1160" height="488" alt="X-BOWS N--" src="https://github.com/user-attachments/assets/1a3e708a-de0c-46f0-a364-675d5ac1e2e9" />
 
 **2. Engram-21X Custom Layout Diagram**
-<img width="896" height="387" alt="2026-06-26_210732" src="https://github.com/user-attachments/assets/ef32bde8-447c-4d70-a003-2d9047192ab6" />
+<img width="896" height="387" alt="2026-06-26_210732" src="https://github.com/user-attachments/assets/ceb770cd-c33a-4d72-8634-a4ece9258702" />
 
 #### My Hardware Setup
 To complete the ergonomic typing experience, my personal keyboard is equipped with:
@@ -144,6 +144,20 @@ FN + Y / I: Brightness Up / Down.
 FN + B / O: Change Effect Mode / Color Hue.
 
 FN + E / C: Effect Speed Faster / Slower.
+
+⌨️ Typing Practice & Personal Progress
+Learning a new layout takes time. I highly recommend using keybr.com to build your muscle memory.
+You can use their custom text feature to practice these pangrams (sentences containing every letter of the alphabet) to train your global key positions:
+
+Pack my box with five dozen liquor jugs.
+
+The five boxing wizards jump quickly.
+
+While making a whirlwind visit, Jack quit smoking.
+
+Sphinx of black quartz, judge my vow.
+
+My Real-World Progress: To give you a realistic idea of the learning curve, I have practiced this layout for 87 hours and 13 minutes, and my speed currently sits around 50~61 WPM. It might not be blazing fast yet, but the ergonomic comfort it brings is totally worth it! You can check out my ongoing progress here on my keybr profile. Keep practicing!
 
 Thank you for reading ^—^
 
@@ -317,5 +331,19 @@ FN + O：切換燈光顏色色調
 FN + E：加快燈效速度
 
 FN + C：減慢燈效速度
+
+⌨️ 打字練習資源與個人進度分享
+適應全新的鍵盤佈局需要時間與肌肉記憶。非常推薦使用 keybr.com 來進行盲打練習。
+您也可以利用該網站的自定義文字功能，輸入以下「全字母句（包含所有英文字母的句子）」來進行全域鍵位練習，加速肌肉記憶的養成：
+
+Pack my box with five dozen liquor jugs.
+
+The five boxing wizards jump quickly.
+
+While making a whirlwind visit, Jack quit smoking.
+
+Sphinx of black quartz, judge my vow.
+
+我的真實學習曲線： 為了讓大家對陣痛期有個真實的參考，這邊分享我個人的練習數據。目前我已累積練習了 87 小時 13 分鐘，打字速度大約穩定在 50~61 WPM。這速度雖然稱不上飛快，但佈局改善後帶來的手指舒適度與健康是無價的！歡迎到 我的 keybr 個人檔案 查看我正在持續推進的進度。慢慢來，手指會記住一切的！
 
 感謝您的觀看 ^—^
