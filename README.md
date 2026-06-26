@@ -14,6 +14,8 @@ This is a highly customized version of the Engram 2.0 layout, tailored for the X
 
 ### Modification Logic
 
+**Compared to the original Engram 2.0 layout, this custom configuration specifically modifies three keys: `Z`, `Q`, and `G`.**
+
 The original Engram 2.0 layout places the `Q` and `Z` keys in the right pinky area, which requires twisting the right palm outwards every time they are pressed. To fix this ergonomic flaw on the X-BOWS Nature keyboard, the following adjustments were made:
 - Moved `Q` to the bottom-right `Alt` position.
 - Moved `Z` back to its standard QWERTY position (left of the `X` key).
@@ -22,11 +24,10 @@ The original Engram 2.0 layout places the `Q` and `Z` keys in the right pinky ar
 ### ⌨️ Layout Maps
 
 **1. Original X-Bows Nature Keyboard**
-<img width="1160" height="488" alt="X-BOWS N--" src="https://github.com/user-attachments/assets/75c78336-e1ea-4346-ae3c-617d599b51bc" />
+<img width="1160" height="488" alt="X-BOWS N--" src="https://github.com/user-attachments/assets/cd519fbf-2662-43f9-8df9-601f4cc3ceb7" />
 
 **2. Engram-21X Custom Layout Diagram**
-<img width="896" height="387" alt="2026-06-26_210732" src="https://github.com/user-attachments/assets/a108f89a-f2cd-41a3-b9ee-9cef24531dc5" />
-
+<img width="896" height="387" alt="2026-06-26_210732" src="https://github.com/user-attachments/assets/66038a86-4188-4dff-a351-ec4b9387e82d" />
 
 #### Layer 0: Base
 
@@ -86,6 +87,8 @@ Engram-21X 是基於 Engram 2.0 鍵盤佈局，針對 X-BOWS Nature 鍵盤所進
 客製化提醒：本鍵盤佈局目前專注於單一主層的優化。若有額外需求，歡迎自行利用 QMK 工具與 AI 輔助來擴充圖層。
 
 修改邏輯說明
+與原版 Engram 2.0 相比，本佈局主要更動了三個按鍵：Z、Q 與 G。
+
 原版 Engram 2.0 將 Q 與 Z 按鍵放置於右手小指區，但每次按下 Q 或 Z 時，需要將右手掌往右側轉動。為了在 X-BOWS Nature 鍵盤上改善此缺點，本配置做了以下更動：
 
 將 Q 移至右下方的 Alt 鍵位。
